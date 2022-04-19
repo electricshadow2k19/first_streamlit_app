@@ -1,2 +1,4 @@
+import streamlit
 
-print("Welcome to Streamlit")
+streamlit.title('My Parents New Healthy Diner')
+
